@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arshcoder2022
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning to be a Java Full-Stack Developer
+- 👀 I’m interested in Senior Front-End Engineer with 7+ years of experience
+- 🌱 I’m studying to be a Java Full-Stack Developer
 - 💞️ I’m looking to collaborate on User Experience, Responsive Design, and Accessibility.
 
 
