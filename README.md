@@ -1,5 +1,5 @@
 - 👋 Hi, I am @arshcoder2022
-- 👀 I am a Senior Software Engineer with 8+ years of experience
+- 👀 I am a Software Engineer with 8+ years of experience
 - 🌱 I am studying to be a Java Full-Stack Developer
 - 💞️ I am looking to collaborate on User Experience, Responsive Design, and Accessibility.
 
